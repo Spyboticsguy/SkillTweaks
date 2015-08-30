@@ -1,0 +1,10 @@
+{
+	"name" : "Skilltree Tweaks",
+	"description" : "Rebalances some of the perk decks and skills to not be useless",
+	"author" : "Spyboticsguy",
+	"contact" : "id/spyboticsguy",
+	"version" : "0.2",
+	"hooks" : [
+		{ "hook_id" : "lib/tweak_data/skilltreetweakdata", "script_path" : "skilltweak.lua" }
+	]
+}
